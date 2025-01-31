@@ -1,3 +1,4 @@
+
 # **Python Iteration Examples**
 
 This repository demonstrates the concept of **iteration** in Python using `for` loops, `while` loops, and nested loops. Iteration is the process of repeatedly executing a block of code, which is essential for tasks like processing data, creating patterns, or performing calculations.
@@ -14,7 +15,8 @@ The repository includes practical examples to help you understand how iteration 
    - [Nested Loops](#nested-loops)
 3. [Files in the Repository](#files-in-the-repository)
 4. [How to Use](#how-to-use)
-5. [Conclusion](#conclusion)
+5. [Class Notes](#class-notes)
+6. [Conclusion](#conclusion)
 
 ---
 
@@ -147,11 +149,13 @@ else:  # If the number is odd
    python while.py
    python test.py
    ```
+
 ---
 
 ## **Class Notes** <a name="class-notes"></a>
 
 For detailed explanations and additional examples, refer to the **[Class Notes](class_notes.md)**.
+
 ---
 
 ## **Conclusion** <a name="conclusion"></a>
@@ -159,7 +163,6 @@ For detailed explanations and additional examples, refer to the **[Class Notes](
 This repository will provide my practical examples of iteration I've used in Python, offering an opportunity for me to explore different loop structures and understand their use in real-world scenarios. Starting as a beginner like me or looking to refresh your knowledge, these examples will help myself master the concept of iteration.
 
 Feel free to explore the code, modify it, and experiment with your own examples! If you have any questions or suggestions for me, please open an issue or submit a pull request. Happy coding! 🚀
-
 ---
 
 ### **Quick Links**
@@ -169,4 +172,5 @@ Feel free to explore the code, modify it, and experiment with your own examples!
 - [Nested Loops](#nested-loops)
 - [Files in the Repository](#files-in-the-repository)
 - [How to Use](#how-to-use)
+- [Class Notes](#class-notes)
 - [Conclusion](#conclusion)
