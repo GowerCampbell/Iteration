@@ -125,7 +125,7 @@ else:  # If the number is odd
 
 ---
 
-## **Files in the Repository** <a name="files-in-the-repository"></a>
+## **BootCamp Files in the Repository** <a name="files-in-the-repository"></a>
 
 1. **[`pattern.py`](pattern.py)**: Demonstrates nested loops to create patterns and multiplication tables.
 2. **[`while.py`](while.py)**: Implements `while` loops for dynamic number input, summing, and averaging.
