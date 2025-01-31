@@ -1,5 +1,5 @@
 
-# **Python Iteration Examples**
+# **Python Iteration**
 
 This repository demonstrates the concept of **iteration** in Python using `for` loops, `while` loops, and nested loops. Iteration is the process of repeatedly executing a block of code, which is essential for tasks like processing data, creating patterns, or performing calculations.
 
