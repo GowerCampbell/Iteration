@@ -133,25 +133,6 @@ else:  # If the number is odd
 
 ---
 
-## **How to Use** <a name="how-to-use"></a>
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bootcamp-iteration-tasks.git
-   ```
-2. Navigate to the repository directory:
-   ```bash
-   cd bootcamp-iteration-tasks
-   ```
-3. Run the Python scripts:
-   ```bash
-   python pattern.py
-   python while.py
-   python test.py
-   ```
-
----
-
 ## **Class Notes** <a name="class-notes"></a>
 
 For detailed explanations and additional examples, refer to the **[Class Notes](CoGrammar-BootCamp-Tasks/knotes.py)**.
