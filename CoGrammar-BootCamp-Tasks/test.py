@@ -1,4 +1,4 @@
-# test.py
+# test.py Written by Gower Campbell & AI
 # A collection of experiments and code snippets for testing Python concepts.
 
 # ====================
