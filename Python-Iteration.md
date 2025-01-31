@@ -154,7 +154,7 @@ else:  # If the number is odd
 
 ## **Class Notes** <a name="class-notes"></a>
 
-For detailed explanations and additional examples, refer to the **[Class Notes](CoGrammar-BootCamp-Tasks/knotes.md)**.
+For detailed explanations and additional examples, refer to the **[Class Notes](CoGrammar-BootCamp-Tasks/knotes.py)**.
 
 ---
 
