@@ -147,7 +147,11 @@ else:  # If the number is odd
    python while.py
    python test.py
    ```
+---
 
+## **Class Notes** <a name="class-notes"></a>
+
+For detailed explanations and additional examples, refer to the **[Class Notes](class_notes.md)**.
 ---
 
 ## **Conclusion** <a name="conclusion"></a>
